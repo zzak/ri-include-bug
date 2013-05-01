@@ -1,0 +1,11 @@
+== INCL
+
+A crazy experiment that should be left for the coward
+
+=== When all else fails
+
+This should be included
+
+    puts "omg!"
+
+with our module.
