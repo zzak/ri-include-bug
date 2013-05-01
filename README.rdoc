@@ -1,0 +1,10 @@
+= How to repro
+
+1. Clone this repo: `git clone git://github.com/zzak/ri-include-bug.git`
+2. Change to ri-include-bug directory: `cd ri-include-bug`
+3. Generate the docs: `rdoc -ro incldocs lib/incl.rb`
+4. Try to read them: `ri -d incldocs INCL`
+
+== Version
+
+ruby 2.1.0dev (2013-05-01 trunk 40532) [x86_64-darwin12.3.0]
